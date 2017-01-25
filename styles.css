@@ -1,0 +1,21 @@
+#main-title {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Abhaya Libre', serif;
+}
+
+#all {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: left;
+    font-family: 'Abhaya Libre', serif;
+}
