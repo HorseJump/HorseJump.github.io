@@ -1,21 +1,29 @@
 #main-title {
     text-align: center;
     font-size: 50px;
-    font-family: 'Abhaya Libre', serif;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    background-color: black;
 }
 
 #all {
     margin-bottom: 0px;
     margin-top: 0px;
+    background-color: black;
 }
 
-a {
-    text-decoration: none;
+a:link {
+    color: white;
 }
 
-h1 {
+a:visited {
+    color: white;
+}
+
+#myName {
     margin-top: 0px;
     margin-bottom: 0px;
     text-align: left;
-    font-family: 'Abhaya Libre', serif;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 100px;
 }
